@@ -68,14 +68,14 @@ regardless of branch.
   but is much slower. sending a pilot on a crew with a shuttle will significantly cut travel time
 
 ## Mining
-*Resource tier is how the site rarity/danger: Basic(common/easy enemies), Medial(uncommon/ harder enemies), Rare(scarce/ very hard enemies).
-*Setting up the mine: Investigate the planet, then clear any danger/ enemies, then send miners to establish a mining site.
-*An established mining site, will mine automatically. miners are stationed and will send resource to the ship using a capsule. Capsule capacity can be upgraded as well as the ships storage capacity
-*An established mining site can be raided. The player will receive an advanced warning, with a ticking timer, giving player time to send reinforcements, or choose to ignore the warning.
+* Resource tier is how the site rarity/danger: Basic(common/easy enemies), Medial(uncommon/ harder enemies), Rare(scarce/ very hard enemies).
+* Setting up the mine: Investigate the planet, then clear any danger/ enemies, then send miners to establish a mining site.
+* An established mining site, will mine automatically. miners are stationed and will send resource to the ship using a capsule. Capsule capacity can be upgraded as well as the ships storage capacity
+* An established mining site can be raided. The player will receive an advanced warning, with a ticking timer, giving player time to send reinforcements, or choose to ignore the warning.
 If raid is not defended in time, or the fight for defending the site was lost, the site, any upgrades and its miners are lost permanently. The site can be re-cleared and re-established, but
 all upgrades that were made including capsule size will have to be rebuild again from scratch.
-*Mining sites can hold only miners, but can be upgraded to have two gunners to stand defense.
-*Miners are added to the deck during the raid combat. Miners defeated in a raid the was successfully defended will be out of commission for some time. 
+* Mining sites can hold only miners, but can be upgraded to have two gunners to stand defense.
+* Miners are added to the deck during the raid combat. Miners defeated in a raid the was successfully defended will be out of commission for some time. 
 They can be relocated to the main ship Med bay to speed up the process.
 
 ## Combat 
